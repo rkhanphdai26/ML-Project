@@ -15,7 +15,7 @@
 
 ## 1. Overview
 AMFI (Adaptive Multi-Modal Flood
-Inundation) by modeling a synchronous system for prediction of
+Inundation Monitoring System) by modeling a synchronous system for prediction of
 floods and accurate flood mapping from SAR imagery. Through
 our experiments, we designed a model trained on Mekong dataset
 and synthetic sensor stream, and tested it on Bolivia samples,
