@@ -1,6 +1,6 @@
 # Adaptive Multi-Modal Flood Prediction & Inundation Analysis
 
-**Author:** Sehrish Kazmi,Maleeha Ahmad,Rabia Amin Khan  
+**Author:** Sehrish Kazmi, Maleeha Ahmad, Rabia Amin Khan  
 **Course Project:** Machine Learning Project
 **Submission Date:** 02-05-2026  
 
