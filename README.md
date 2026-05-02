@@ -1,4 +1,4 @@
-# {Adaptive Multi-Modal Flood Prediction & Inundation Analysis
+# Adaptive Multi-Modal Flood Prediction & Inundation Analysis
 
 **Author:** Sehrish Kazmi,Maleeha Ahmad,Rabia Amin Khan  
 **Course:** Machine Learning  
@@ -26,24 +26,11 @@ adaptation.
 
 ---
 
-## 3. Project Structure
-PythonProject/
-├─ data/
-│   ├─ bolivia/
-│   └─ mekong/
-├─ Trial1/
-│   ├─ Models/
-│   ├─ trial1_final_results
-│ 
-└─ Trial2
-
----
-
 # Core Deep Learning (Blackwell/RTX 5050 optimized)
 
 This repository contains the environment configuration and framework setup optimized for **NVIDIA Blackwell (RTX 5050)** architecture using **CUDA 12.8**.
 
-## 🚀 Installation
+##  Installation
 
 To install the core deep learning stack with Blackwell optimization, run:
 
@@ -51,7 +38,7 @@ To install the core deep learning stack with Blackwell optimization, run:
 pip install torch==2.11.0+cu128 torchvision==0.26.0+cu128 torchaudio==2.11.0+cu128 --index-url https://pytorch.org
 ```
 
-## 📦 Dependencies
+##  Dependencies
 
 ### Satellite & Data Processing
 Tools for handling geospatial data and visualization:
@@ -69,10 +56,10 @@ Data analysis and evaluation tools:
 *   `scikit-learn`
 *   `seaborn`
 
-## 🛠 Usage
+##  Usage
 This setup is designed for high-performance satellite image segmentation. Ensure your drivers are updated to support **cu128** to take full advantage of the RTX 5050 hardware acceleration.
 
-## 🔬 Experiment Trials
+##  Experiment Trials
 ### sen1flood11 datasets: Bolivia and Mekong (SAR images and labels)
 ### Trial 1
 *   **Training:** `train.py` (50 epochs).
