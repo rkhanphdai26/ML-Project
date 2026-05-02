@@ -1,0 +1,19 @@
+# Core Deep Learning (Blackwell/RTX 5050 optimized)
+--index-url https://download.pytorch.org/whl/cu128
+torch==2.11.0+cu128
+torchvision==0.26.0+cu128
+torchaudio==2.11.0+cu128
+
+# Satellite & Data Processing
+rasterio==1.4.4
+numpy
+matplotlib
+tifffile
+
+# framework to implement an EfficientNet-B4 backbone
+segmentation-models-pytorch
+
+# Machine Learning Helpers
+scikit-learn
+segmentation_models_pytorch==0.5.0
+seaborn
